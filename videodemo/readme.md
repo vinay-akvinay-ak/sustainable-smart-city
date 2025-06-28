@@ -1,8 +1,8 @@
 🎬 Video Demo – Key Talking Points
 
-🔹Project Title & Stack
+🔹Project 
 '''''
-Project: Sustainable Smart City Assistant
+Project title: Sustainable Smart City Assistant
 """""
 AI Model: IBM Granite LLM
 

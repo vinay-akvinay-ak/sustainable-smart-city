@@ -1,7 +1,5 @@
 # sustainable-smart-city
 _______
-Here’s a **script for your video demo explanation** of the **"Sustainable Smart City Assistant"** MERN stack project. You can use this while recording your screen or presenting live.
-
 ---
 
 🎥 **Video Demo Script — Sustainable Smart City Assistant**

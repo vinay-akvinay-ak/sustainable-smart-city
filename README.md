@@ -8,8 +8,7 @@ _______
 
 ### 🔷 **\[0:00 – 0:15] Introduction**
 
-> "Hello everyone! Welcome to our project demo. Our project is titled **‘Sustainable Smart City Assistant’**, developed using the **MERN stack** — MongoDB, Express.js, React.js, and Node.js."
-
+> "Hello everyone! Welcome to our project demo. Our project is titled **‘Sustainable Smart City Assistant’**
 ---
 
 ### 🔷 **\[0:15 – 0:45] Team Introduction**

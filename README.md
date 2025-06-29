@@ -6,12 +6,12 @@ _______
 
 ---
 
-### 🔷 **\[0:00 – 0:15] Introduction**
+### 🔷 **\ Introduction**
 
 > "Hello everyone! Welcome to our project demo. Our project is titled **‘Sustainable Smart City Assistant’**
 ---
 
-### 🔷 **\[0:15 – 0:45] Team Introduction**
+### 🔷 **\ Team Introduction**
 
 > "Our team includes:
 >
@@ -22,7 +22,7 @@ _______
 
 ---
 
-### 🔷 **\[0:45 – 1:15] Project Overview**
+### 🔷 **\ Project Overview**
 
 > "The purpose of this project is to help users adopt eco-friendly habits. It does this through an **AI-powered assistant** that gives:
 >
@@ -32,7 +32,7 @@ _______
 
 ---
 
-### 🔷 **\[1:15 – 2:15] Feature Walkthrough**
+### 🔷 **\Feature Walkthrough**
 
 **1. Registration & Login**
 
@@ -52,7 +52,7 @@ _______
 
 ---
 
-### 🔷 **\[2:15 – 2:45] Tech Stack Summary**
+### 🔷 **\ Tech Stack Summary**
 
 > "On the technical side:
 >
@@ -63,13 +63,13 @@ _______
 
 ---
 
-### 🔷 **\[2:45 – 3:15] Deployment & Testing**
+### 🔷 **\ Deployment & Testing**
 
 > "The app is deployed on IBM Cloud. We tested all core features using Postman and React Testing Library. Performance remains consistent under load, with responses under 3 seconds."
 
 ---
 
-### 🔷 **\[3:15 – 3:45] Future Scope**
+### 🔷 **\ Future Scope**
 
 > "In the future, we plan to:
 >
@@ -79,7 +79,7 @@ _______
 
 ---
 
-### 🔷 **\[3:45 – 4:00] Conclusion**
+### 🔷 **\Conclusion**
 
 > "Thank you for watching our demo! Our Sustainable Smart Assistant empowers city users to live greener and healthier. For more, check out our GitHub repo and live demo in the description below."
 
